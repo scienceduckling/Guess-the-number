@@ -5,6 +5,7 @@ Game played in the command line. Python 3 is needed.
 No prior formal education.
 
 ### __Walkthrough__
+* User can set upper limit of interval for choosing number to guess
 * The program expects whole numbers;
 * The number of guesses made is displayed at the end;
-* User can play again by entering "yes" when prompted.
+* User can play again by entering "y" when prompted.
